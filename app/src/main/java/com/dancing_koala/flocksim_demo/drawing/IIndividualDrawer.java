@@ -1,4 +1,4 @@
-package com.dancing_koala.flocksim.view;
+package com.dancing_koala.flocksim_demo.drawing;
 
 import android.graphics.Canvas;
 

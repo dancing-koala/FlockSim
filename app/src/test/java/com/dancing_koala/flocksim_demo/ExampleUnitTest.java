@@ -1,4 +1,4 @@
-package com.dancing_koala.flocksim;
+package com.dancing_koala.flocksim_demo;
 
 import org.junit.Test;
 

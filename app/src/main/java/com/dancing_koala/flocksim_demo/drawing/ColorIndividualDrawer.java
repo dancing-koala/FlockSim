@@ -1,10 +1,10 @@
-package com.dancing_koala.flocksim.view;
+package com.dancing_koala.flocksim_demo.drawing;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 
-import com.dancing_koala.flocksim.domain.ColorIndividual;
+import com.dancing_koala.flocksim_demo.data.ColorIndividual;
 
 /**
  * Created by dancing-koala on 01/03/18.

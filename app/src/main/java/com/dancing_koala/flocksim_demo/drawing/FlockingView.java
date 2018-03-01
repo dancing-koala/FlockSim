@@ -1,21 +1,18 @@
-package com.dancing_koala.flocksim.view;
+package com.dancing_koala.flocksim_demo.drawing;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
-import android.graphics.Point;
-import android.graphics.PointF;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.dancing_koala.flocksim.domain.ColorIndividual;
 import com.dancing_koala.flocksim.domain.DangerZone;
 import com.dancing_koala.flocksim.domain.Flock;
+import com.dancing_koala.flocksim_demo.data.ColorIndividual;
 
-import java.util.List;
 
 /**
  * Created by dancing-koala on 27/02/18.

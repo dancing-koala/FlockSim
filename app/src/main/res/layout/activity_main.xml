@@ -3,9 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.dancing_koala.flocksim.MainActivity">
+    tools:context="com.dancing_koala.flocksim_demo.MainActivity">
 
-    <com.dancing_koala.flocksim.view.FlockingView
+    <com.dancing_koala.flocksim_demo.drawing.FlockingView
         android:id="@+id/flocking_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

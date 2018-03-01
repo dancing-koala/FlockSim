@@ -1,14 +1,14 @@
-package com.dancing_koala.flocksim;
+package com.dancing_koala.flocksim_demo;
 
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import com.dancing_koala.flocksim.domain.ColorIndividual;
 import com.dancing_koala.flocksim.domain.DangerZone;
 import com.dancing_koala.flocksim.domain.Flock;
-import com.dancing_koala.flocksim.view.ColorIndividualDrawer;
-import com.dancing_koala.flocksim.view.FlockingView;
+import com.dancing_koala.flocksim_demo.data.ColorIndividual;
+import com.dancing_koala.flocksim_demo.drawing.ColorIndividualDrawer;
+import com.dancing_koala.flocksim_demo.drawing.FlockingView;
 
 import java.util.ArrayList;
 import java.util.List;
